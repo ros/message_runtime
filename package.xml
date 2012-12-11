@@ -19,5 +19,5 @@
   <run_depend>roscpp_traits</run_depend>
   <run_depend>rostime</run_depend>
 
-  <run_depend>message_generator</run_depend> <!-- workaround to provide the generators to dry downstream packages -->
+  <run_depend>message_generation</run_depend> <!-- workaround to provide the generators to dry downstream packages -->
 </package>
