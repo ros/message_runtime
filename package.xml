@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>message_runtime</name>
-  <version>0.4.9</version>
+  <version>0.4.10</version>
   <description>Package modeling the run-time dependencies for language bindings of messages.</description>
   <maintainer email="dthomas@willowgarage.com">Dirk Thomas</maintainer>
   <license>BSD</license>
